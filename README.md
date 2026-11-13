@@ -5,7 +5,7 @@ systems. I work part-time as a backend developer at [Saniia](https://saniia.ch),
 building patient-flow forecasting and bed management software for hospitals :Java, Spring Boot,
 Kafka and PostgreSQL, in production.
 
-Looking for a **6 month final year internship from January 2027**, around Geneva. Backend, AI
+Looking for a **6 month final year internship from Febuary 2027**, around Geneva. Backend, AI
 engineering, or both.
 
 ## Projects
